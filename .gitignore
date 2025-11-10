@@ -1,1 +1,11 @@
-/target
+target/
+*/target/
+*/*/target/
+**/target/
+
+*.d
+*.pdb
+
+.DS_Store
+.DS_Store?
+._*
